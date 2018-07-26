@@ -35,6 +35,7 @@ Note: ECMA International facilitates the timely creation of a wide range of glob
 ## About TC39
 
 Note: TC39, or Technical Committee number 39, is the working group of ECMA International that defines the standard for the JavaScript programming language. (The standard is, strictly speaking, called ECMAScript, although everyone refers to it as JavaScript.)
+
 ---
 
 ## Why is npm joining TC39?
